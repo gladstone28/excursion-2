@@ -1,4 +1,4 @@
-This is a Codecademy Project wit the follwoing objective
+This is a Codecademy Project with the following objective
 
 BUILD A WEBSITE WITH HTML, CSS, AND GITHUB PAGES
 Off-Platform Project: Excursion
